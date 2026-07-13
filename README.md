@@ -138,10 +138,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Raj Sirohi**
+**Erica Sharma**
 
 * 💼 Aspiring AI & Data Engineer
-* 🔗 LinkedIn: https://linkedin.com/in/your-profile
+
 
 ---
 
